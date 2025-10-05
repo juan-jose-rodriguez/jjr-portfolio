@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ---
 title: "Media / YouTube"
@@ -15,3 +16,9 @@ title: "Media / YouTube"
 - **[Nietzsche: “God is Dead”](https://www.youtube.com/watch?v=HqouxH-j0iI&t=12s)** — context & misconceptions
 
 [Subscribe on YouTube](https://youtube.com/@jjrphilosophy)
+=======
+---
+title: "Media / YouTube"
+---
+Under construction.
+>>>>>>> 08935e5 (Initial site)

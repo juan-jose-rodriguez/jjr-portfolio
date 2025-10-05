@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ---
 title: "Talks & Conferences"
@@ -41,3 +42,9 @@ title: "Talks & Conferences"
 - **15 Dec 2020 — Wuppertal**  
   *Die innerliche Unmöglichkeit eines Systems der Freiheit bei Schelling.*  
   **Forschungsseminar (Prof. A. Schnell)**, Bergische Universität Wuppertal. 
+=======
+---
+title: "Talks & Conferences"
+---
+Under construction.
+>>>>>>> 08935e5 (Initial site)

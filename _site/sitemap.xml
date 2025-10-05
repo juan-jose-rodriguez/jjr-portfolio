@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+<<<<<<< HEAD
     <loc>https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/teaching.html</loc>
     <lastmod>2025-10-05T15:29:07.273Z</lastmod>
   </url>
@@ -35,5 +36,41 @@
   <url>
     <loc>https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/talks.html</loc>
     <lastmod>2025-10-05T15:36:48.588Z</lastmod>
+=======
+    <loc>https://juan-jose-rodriguez.github.io/jjr-portfolio/teaching.html</loc>
+    <lastmod>2025-10-05T17:15:38.656Z</lastmod>
+  </url>
+  <url>
+    <loc>https://juan-jose-rodriguez.github.io/jjr-portfolio/service.html</loc>
+    <lastmod>2025-10-05T17:15:38.892Z</lastmod>
+  </url>
+  <url>
+    <loc>https://juan-jose-rodriguez.github.io/jjr-portfolio/projects.html</loc>
+    <lastmod>2025-10-05T17:15:38.795Z</lastmod>
+  </url>
+  <url>
+    <loc>https://juan-jose-rodriguez.github.io/jjr-portfolio/index.html</loc>
+    <lastmod>2025-10-05T17:15:38.499Z</lastmod>
+  </url>
+  <url>
+    <loc>https://juan-jose-rodriguez.github.io/jjr-portfolio/contact.html</loc>
+    <lastmod>2025-10-05T17:15:39.171Z</lastmod>
+  </url>
+  <url>
+    <loc>https://juan-jose-rodriguez.github.io/jjr-portfolio/cv.html</loc>
+    <lastmod>2025-10-05T17:15:39.070Z</lastmod>
+  </url>
+  <url>
+    <loc>https://juan-jose-rodriguez.github.io/jjr-portfolio/media.html</loc>
+    <lastmod>2025-10-05T17:15:38.988Z</lastmod>
+  </url>
+  <url>
+    <loc>https://juan-jose-rodriguez.github.io/jjr-portfolio/publications.html</loc>
+    <lastmod>2025-10-05T17:15:38.574Z</lastmod>
+  </url>
+  <url>
+    <loc>https://juan-jose-rodriguez.github.io/jjr-portfolio/talks.html</loc>
+    <lastmod>2025-10-05T17:15:38.746Z</lastmod>
+>>>>>>> 08935e5 (Initial site)
   </url>
 </urlset>

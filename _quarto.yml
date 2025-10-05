@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 08935e5 (Initial site)
 project:
   type: website
 
@@ -26,14 +29,19 @@ website:
         text: CV
       - href: contact.qmd
         text: Contact
+<<<<<<< HEAD
   page-footer:
     left: "© {date} J.J. Rodríguez"
     right: "[ORCID](https://orcid.org/0000-0002-1585-3992) · [Google Scholar](https://scholar.google.com/citations?user=mBwHcpgAAAAJ) · [YouTube](https://youtube.com/@JJRPhilosophy)"
+=======
+
+>>>>>>> 08935e5 (Initial site)
 format:
   html:
     theme: cosmo
     toc: true
     smooth-scroll: true
+<<<<<<< HEAD
     number-sections: false
     include-in-header:
       text: |
@@ -46,3 +54,5 @@ filters:
   - quarto
 execute:
   freeze: auto
+=======
+>>>>>>> 08935e5 (Initial site)

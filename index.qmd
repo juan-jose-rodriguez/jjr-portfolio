@@ -1,6 +1,7 @@
 ---
 title: "Home"
 ---
+<<<<<<< HEAD
 
 # J.J. Rodríguez
 
@@ -23,3 +24,7 @@ Welcome! I research and teach German Classical Philosophy at Charles University 
 ## Quick links
 - [ORCID](https://orcid.org/0000-0002-1585-3992) · [Google Scholar](https://scholar.google.com/citations?user=mBwHcpgAAAAJ) · [YouTube](https://youtube.com/@jjrphilosophy)
 - [Download CV (PDF)](files/jjr_cv.pdf)
+=======
+# J.J. Rodr�guez
+Site setup test. More content soon.
+>>>>>>> 08935e5 (Initial site)

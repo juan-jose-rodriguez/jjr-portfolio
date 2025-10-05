@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ---
 title: "Projects & Grants"
@@ -31,3 +32,9 @@ With Prof. Karel Novotný. The project examines how tensions between **freedom**
 - **Erasmus Mundus Europhilosophie** — Master’s scholarship (2019–2021).
 - **UBA “Estímulo” Scholarship** — Master studentship (2017–2019).  
 - **DAAD Winterkurs (Leipzig)** — Language scholarship (2016–2017).
+=======
+---
+title: "Projects & Grants"
+---
+Under construction.
+>>>>>>> 08935e5 (Initial site)

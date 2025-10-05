@@ -1,6 +1,7 @@
 ---
 title: "Publications"
 ---
+<<<<<<< HEAD
 
 ## Books
 
@@ -37,3 +38,6 @@ title: "Publications"
 - **A Dark Nature. Schelling on the world and freedom in the years 1806–1810.**  
   _Idealistic Studies_, **52**(2), 179–199 (2022).  
   DOI: <https://doi.org/10.5840/idstudies202255141>
+=======
+Under construction.
+>>>>>>> 08935e5 (Initial site)

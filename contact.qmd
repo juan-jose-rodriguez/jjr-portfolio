@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ---
 title: "Contact"
@@ -11,3 +12,9 @@ title: "Contact"
 - [ORCID](https://orcid.org/0000-0002-1585-3992)
 - [Google Scholar](https://scholar.google.com/citations?user=mBwHcpgAAAAJ)
 - [YouTube](https://youtube.com/@jjrphilosophy)
+=======
+---
+title: "Contact"
+---
+Under construction.
+>>>>>>> 08935e5 (Initial site)

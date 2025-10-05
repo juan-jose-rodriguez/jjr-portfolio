@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ---
 title: "Teaching"
@@ -17,3 +18,9 @@ German Idealism, political philosophy, ethics, metaphysics of freedom, realism v
 
 ## Office hours
 By appointment (email).
+=======
+---
+title: "Teaching"
+---
+Under construction.
+>>>>>>> 08935e5 (Initial site)

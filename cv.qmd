@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ---
 title: "Curriculum Vitae"
@@ -6,3 +7,9 @@ title: "Curriculum Vitae"
 [Download full CV (PDF)](files/jjr_cv.pdf)
 
 Include a concise HTML mirror (education, positions, selected publications, teaching, talks, projects, service) with links to the respective pages.
+=======
+---
+title: "CV"
+---
+Under construction.
+>>>>>>> 08935e5 (Initial site)
