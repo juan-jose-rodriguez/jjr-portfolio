@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Sitemap: https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/sitemap.xml
-=======
 Sitemap: https://juan-jose-rodriguez.github.io/jjr-portfolio/sitemap.xml
->>>>>>> 08935e5 (Initial site)
