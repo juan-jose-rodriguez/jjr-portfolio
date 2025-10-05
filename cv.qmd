@@ -1,0 +1,8 @@
+
+---
+title: "Curriculum Vitae"
+---
+
+[Download full CV (PDF)](files/jjr_cv.pdf)
+
+Include a concise HTML mirror (education, positions, selected publications, teaching, talks, projects, service) with links to the respective pages.

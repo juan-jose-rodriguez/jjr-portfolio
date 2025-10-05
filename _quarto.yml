@@ -1,0 +1,48 @@
+
+project:
+  type: website
+
+website:
+  title: "J.J. Rodríguez — Philosophy"
+  description: "German Idealism, metaphysics of freedom, Schelling, and contemporary epistemology."
+  site-url: "https://juan-jose-rodriguez.github.io/jjr-portfolio/"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: talks.qmd
+        text: Talks & Conferences
+      - href: projects.qmd
+        text: Projects & Grants
+      - href: service.qmd
+        text: Service
+      - href: media.qmd
+        text: Media / YouTube
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+  page-footer:
+    left: "© {date} J.J. Rodríguez"
+    right: "[ORCID](https://orcid.org/0000-0002-1585-3992) · [Google Scholar](https://scholar.google.com/citations?user=mBwHcpgAAAAJ) · [YouTube](https://youtube.com/@JJRPhilosophy)"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    smooth-scroll: true
+    number-sections: false
+    include-in-header:
+      text: |
+        <meta name="robots" content="index, follow">
+        <meta property="og:title" content="J.J. Rodríguez — Philosophy">
+        <meta property="og:description" content="German Idealism, metaphysics of freedom, Schelling, and contemporary epistemology.">
+        <meta property="og:type" content="website">
+        <meta property="twitter:card" content="summary_large_image">
+filters:
+  - quarto
+execute:
+  freeze: auto

@@ -1,0 +1,29 @@
+{
+  "contact.qmd": {
+    "contact.html": "c315be25"
+  },
+  "cv.qmd": {
+    "cv.html": "d8573fee"
+  },
+  "index.qmd": {
+    "index.html": "f1fa0cc8"
+  },
+  "media.qmd": {
+    "media.html": "654886d6"
+  },
+  "projects.qmd": {
+    "projects.html": "a9f8f18b"
+  },
+  "publications.qmd": {
+    "publications.html": "5755f84d"
+  },
+  "service.qmd": {
+    "service.html": "74e1951d"
+  },
+  "talks.qmd": {
+    "talks.html": "a0333aba"
+  },
+  "teaching.qmd": {
+    "teaching.html": "cfcec0b3"
+  }
+}

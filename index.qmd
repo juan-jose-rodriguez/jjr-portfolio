@@ -1,0 +1,25 @@
+---
+title: "Home"
+---
+
+# J.J. Rodríguez
+
+**Philosophy** — German Idealism (Kant, Fichte, Schelling, Hegel); political philosophy; metaphysics of freedom; realism vs. constructivism; bridges to contemporary epistemology.
+
+Welcome! I research and teach German Classical Philosophy at Charles University in Prague with a focus on freedom, metaphysics, and the relation between **system and Being**, especially in **Schelling** and his legacy for current debates about politics, science and knowledge.
+
+::: callout
+## Now
+- **Current projects:** Schelling, realism, and the “Science Wars” (S.T.A.R.S., Wuppertal); political philosophy of Schelling (SCOPE, Antwerp).
+- **Latest video:** see [Media / YouTube](media.qmd).
+:::
+
+## Highlights
+- **Book (2022):** _L’abîme de l’imagination. L’essor et la chute de l’idéalisme esthétique chez Kant et Schelling_ (Libri virides). **ISBN:** 978-3-95948-567-8
+- **Articles (2025):** in *International Journal of Philosophical Studies*; *History of Philosophy Quarterly*; *Deutsche Zeitschrift für Philosophie*; *Philosophical Inquiries*; *Sophia*. See the full list under [Publications](publications.qmd).
+- **Teaching:** German Classical Philosophy; German Phenomenology; Ethics. See [Teaching](teaching.qmd).
+- **Talks:** NASS (Gonzaga), Wuppertal Research Seminar, Université Côte d’Azur. See [Talks & Conferences](talks.qmd).
+
+## Quick links
+- [ORCID](https://orcid.org/0000-0002-1585-3992) · [Google Scholar](https://scholar.google.com/citations?user=mBwHcpgAAAAJ) · [YouTube](https://youtube.com/@jjrphilosophy)
+- [Download CV (PDF)](files/jjr_cv.pdf)

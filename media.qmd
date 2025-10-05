@@ -1,0 +1,17 @@
+
+---
+title: "Media / YouTube"
+---
+
+## Featured Playlist
+<!-- Replace YOUR_PLAYLIST_ID below -->
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed?listType=playlist&list=PL_wqczfE862HNOxnl1vhvShW3R1ykJ3C7"
+  title="YouTube playlist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Selected Videos
+- **[Kant’s Ethical Dilemma](https://www.youtube.com/watch?v=igV3McojJyM&t=213s)** — classroom-friendly intro (7–8 min)
+- **[Hegel’s Phenomenology](https://www.youtube.com/watch?v=NGAl1_bMT80&t=52s)** — overview & key stages
+- **[Nietzsche: “God is Dead”](https://www.youtube.com/watch?v=HqouxH-j0iI&t=12s)** — context & misconceptions
+
+[Subscribe on YouTube](https://youtube.com/@jjrphilosophy)
